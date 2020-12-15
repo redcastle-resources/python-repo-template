@@ -1,5 +1,5 @@
 # python-repo-template
-A template Python repository for GTAC programmers
+A template Python repository for GTAC programmers. Please provide feedback if you are GTAC Python programmer! 
 
 ## Set up
 
