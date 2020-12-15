@@ -13,7 +13,7 @@ Complete the following steps to start a new project (NEW-PROJECT-NAME):
 ## Create your new repo in GitHub 
 1. DESCRIBE THESE STEPS
 2. Create a new repository in GitHub making sure that the name matches the `NEW-PROJECT-NAME` specified in the setup.
-2. Copy the commands to push an existing repository from the command line
+2. Copy the commands provide by GitHub to push an existing repository from the command line
     `git remote add origin <GITHUB URL>`
     `git branch -M main`
     `git push -u origin main`
